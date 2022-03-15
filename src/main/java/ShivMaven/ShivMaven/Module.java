@@ -25,6 +25,6 @@ public final class Module implements StatefulFunctionModule {
 
     @Override
     public void configure(Map<String, String> globalConfiguration, Binder binder) {
-
+System.out.println("my git practice");
     }
 }
